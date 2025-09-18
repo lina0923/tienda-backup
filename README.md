@@ -49,7 +49,7 @@ USE tienda_prueba;
 SHOW TABLES;
 SELECT * FROM productos;
 
-##2️⃣ Backup en GitHub
+## 2️⃣ Backup en GitHub
 - Pre-requisitos
 
 - Git instalado (git --version)
